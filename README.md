@@ -1,2 +1,2 @@
-# MEF University-OOP-Assigments
-I will share my oop assigments and projects.
+# MEF University-OOP(Java)
+I will share my Object Oriented Programming(JAVA) assigments and Lab works.
